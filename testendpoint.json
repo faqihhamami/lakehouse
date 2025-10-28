@@ -1,0 +1,36 @@
+{
+      "dataframe_records": [
+        {
+          "age": 42,
+          "balance": 2000,
+          "duration": 180,
+          "campaign": 1,
+          "has_housing_loan": true,
+          "has_personal_loan": false,
+          "has_defaulted": false,
+          "job_admin.": 0,
+          "job_blue-collar": 0,
+          "job_entrepreneur": 0,
+          "job_housemaid": 0,
+          "job_management": 1,  
+          "job_retired": 0,
+          "job_self-employed": 0,
+          "job_services": 0,
+          "job_student": 0,
+          "job_technician": 0,
+          "job_unemployed": 0,
+          "job_unknown": 0,
+          "marital_divorced": 0,
+          "marital_married": 1,  
+          "marital_single": 0,
+          "education_primary": 0,
+          "education_secondary": 0,
+          "education_tertiary": 1,
+          "education_unknown": 0,
+          "poutcome_failure": 0,
+          "poutcome_other": 0,
+          "poutcome_success": 0,
+          "poutcome_unknown": 1
+        }
+      ]
+    }
